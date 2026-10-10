@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Jeremy (Ngai Sew Poh)!
+
+Contact: jeremyngai2970@gmail.com
+
+Instructables Profile: https://www.instructables.com/member/Jeremy%20Ngai
 
 <!--
 **Jeremy-Ngai-Sew-Poh/Jeremy-Ngai-Sew-Poh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
